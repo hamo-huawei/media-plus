@@ -1,0 +1,108 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?td0rqq');
+  src:  url('fonts/icomoon.eot?td0rqq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?td0rqq') format('truetype'),
+    url('fonts/icomoon.woff?td0rqq') format('woff'),
+    url('fonts/icomoon.svg?td0rqq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-eye:before {
+  content: "\e900";
+}
+.icon-calendar:before {
+  content: "\e901";
+}
+.icon-arrow-left:before {
+  content: "\e902";
+}
+.icon-arrow-right:before {
+  content: "\e903";
+}
+.icon-chevrons-left:before {
+  content: "\e909";
+}
+.icon-chevrons-right:before {
+  content: "\e90a";
+}
+.icon-clock:before {
+  content: "\e906";
+}
+.icon-edit-2:before {
+  content: "\e908";
+}
+.icon-menu:before {
+  content: "\e915";
+}
+.icon-message-circle:before {
+  content: "\e90b";
+}
+.icon-search:before {
+  content: "\e905";
+}
+.icon-smile:before {
+  content: "\e916";
+}
+.icon-arrow-long-right:before {
+  content: "\e90c";
+}
+.icon-triangle-right:before {
+  content: "\e90d";
+}
+.icon-check:before {
+  content: "\e90e";
+}
+.icon-cross:before {
+  content: "\e90f";
+}
+.icon-home:before {
+  content: "\e917";
+}
+.icon-mail:before {
+  content: "\e914";
+}
+.icon-paper-plane:before {
+  content: "\e910";
+}
+.icon-typing:before {
+  content: "\e911";
+}
+.icon-pinterest-with-circle:before {
+  content: "\e912";
+}
+.icon-twitter:before {
+  content: "\e907";
+}
+.icon-user:before {
+  content: "\e913";
+}
+.icon-whatsapp:before {
+  content: "\e904";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-google-plus:before {
+  content: "\ea8b";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
